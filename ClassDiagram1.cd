@@ -1,0 +1,1670 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Action" Collapsed="true">
+    <Position X="37" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAABAQAAAAAACQBAAAAAAAQQAAAAAAAAAQ=</HashCode>
+      <FileName>Actions\Action.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddANDgate2" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECIAAAAAAAARAQAAAAAAAQBAwAAAACAAQAAAAAAAAA=</HashCode>
+      <FileName>Actions\AddANDgate2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddBUFF" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAARAQQAAAAAAQBAwIAAACAAQAAAAAAAAA=</HashCode>
+      <FileName>AddBUFF.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddConnection" Collapsed="true">
+    <Position X="16.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAMAAAAAAARAQAAAAAAAQBAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>AddConnection.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddLED" Collapsed="true">
+    <Position X="19" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAABAAAAAARAQAAAAAAAQBAwAAAACgAQAAAAAAAAA=</HashCode>
+      <FileName>AddLED.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddNANDgate3" Collapsed="true">
+    <Position X="21.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAARAQAAAAACAQBAwAAAACAAQAAEAAAAAA=</HashCode>
+      <FileName>AddNANDgate3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddSwitch" Collapsed="true">
+    <Position X="23.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAVAQAAAAAAAQhAwAAAACAAQAAAAAAAAA=</HashCode>
+      <FileName>AddSwitch.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddXNORgate3" Collapsed="true">
+    <Position X="28" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAAAAAAAAARAQAAAAACAQBAwAAAACAAQAAAAAAAAA=</HashCode>
+      <FileName>AddXNORgate3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CopyComp" Collapsed="true">
+    <Position X="32.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAARAQABAAAAAQBAAgAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>COPY.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CutComp" Collapsed="true">
+    <Position X="37" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASgAAAAAAAARQQAAAAAAAQBAAkAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>CUT.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeselectComp" Collapsed="true">
+    <Position X="43.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAAAAAAARAQAQAAAAAQBAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>DeSelectComp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EditComp" Collapsed="true">
+    <Position X="48.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACBAAAAAABARAQAAAAAAAQBAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>EditComp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddLabel" Collapsed="true">
+    <Position X="52.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CACBAAAAAAAARAQAAAAAAAQBgAAAAAJAAAAAAAAAAAA=</HashCode>
+      <FileName>AddLabel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LoadDesign" Collapsed="true">
+    <Position X="57.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAABQQAAAAAAAQBAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoadAct.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MoveAct" Collapsed="true">
+    <Position X="61.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIABAQACAEACAQBAAAICAAAACFAAAAAAQA=</HashCode>
+      <FileName>MoveComp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PasteComp" Collapsed="true">
+    <Position X="66.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQSBAAAAAAAARQQAAAAAgAQBAAEAAAAAQAQAAAAAAAA=</HashCode>
+      <FileName>PasteComp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="REDOAction" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQAAAAAAAQBACAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>REDO.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SelectComp" Collapsed="true">
+    <Position X="10" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAAAABAAARAQAAAAAAAQBABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SelectComp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UndoAction" Collapsed="true">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAQAAAAAAAQBAAAAEAAAAAAAAAAAEAA=</HashCode>
+      <FileName>UNDO.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Input" Collapsed="true">
+    <Position X="76.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABABAAQAAAAAAEAABAAAEAAAAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>GUI\Input.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Output" Collapsed="true">
+    <Position X="74.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAgABjAIQUAABAIAAQYQMAAAAAAgAQUAISEICBAwBI=</HashCode>
+      <FileName>GUI\Output.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AND3" Collapsed="true">
+    <Position X="20" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AFACgIAAAAAEAgAAAAIAAAAAAgAACAAABQAAgAEAAAA=</HashCode>
+      <FileName>AND3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BUFFER" Collapsed="true">
+    <Position X="24.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACgIAAAAAEAgAAAAIAAAAAAgAACAAADQAAgAEEAAA=</HashCode>
+      <FileName>BUFF.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AND2" Collapsed="true">
+    <Position X="29" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADACgIAAAAAEAgAAAAIAAAAAAgAACAAADQAAgAEAAAA=</HashCode>
+      <FileName>Components\AND2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Component" Collapsed="true">
+    <Position X="22.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CBAqgICQAAAAgkggIAgAACACAgAACCAADQBAgAkAAoA=</HashCode>
+      <FileName>Components\Component.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Connection" Collapsed="true">
+    <Position X="6.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBACgIAQQAAAAkEAA6AAEAACBAABCAAABRAAiAEQgAA=</HashCode>
+      <FileName>Components\Connection.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gate" Collapsed="true">
+    <Position X="23.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAEAIAAAAIAAAAAAAgAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Components\Gate.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LED" Collapsed="true">
+    <Position X="40.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACgIAAAAAAAgAAAAAAAAAAAgAACAAADQAAgAEAAAA=</HashCode>
+      <FileName>Components\LED.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NAND2" Collapsed="true">
+    <Position X="33.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACgIAAAAAEAgAAAAIAAAAAAgAACAAADQAAgAEAACA=</HashCode>
+      <FileName>NAND2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NAND3" Collapsed="true">
+    <Position X="35.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACgIAAAAAEAgAAAAIAAAAAAkAACAAADQAAgAEAAAA=</HashCode>
+      <FileName>NAND3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NOR2" Collapsed="true">
+    <Position X="38" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACgIAAAAAEAgAAAAIAAAAAAgAACAAADQgAgAEAAAA=</HashCode>
+      <FileName>NOR2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NOR3" Collapsed="true">
+    <Position X="8.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACgIAAAAAEAgAAAAIAAAAAAgAACAAADQQAgAEAAAA=</HashCode>
+      <FileName>NOR3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NOT" Collapsed="true">
+    <Position X="11" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACgIAAACAEAgAAAAIAAAAAAgAACAAADQAAgAEAAAA=</HashCode>
+      <FileName>NOT.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OR2" Collapsed="true">
+    <Position X="13.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACgIAAAAAEAgAAAAIAAAAAAgAICAAADQAAgAEAAAA=</HashCode>
+      <FileName>OR2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SWITCH" Collapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACgIAAAAAAAgAAAAAAAAACAgAACAAgBQAAgAEAgAA=</HashCode>
+      <FileName>SWITCH.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNOR2" Collapsed="true">
+    <Position X="15.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACgIAAAAAEAgAAAAIAAAAQAgAACAAADQAAgAEAAAA=</HashCode>
+      <FileName>XNOR2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XNOR3" Collapsed="true">
+    <Position X="17.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACgIAAAAAEAgAAAAIAAAAAAgAACAAADQAAggEAAAA=</HashCode>
+      <FileName>XNOR3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XOR2" Collapsed="true">
+    <Position X="22.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AhACgIAAAAAEAgAAAAIAAAAAAgAACAAADQAAgAEAAAA=</HashCode>
+      <FileName>XOR2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="XOR3" Collapsed="true">
+    <Position X="26.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARACgIAAAAAEAgAAAAIAAAAAAgAACAAADQAAgAEAAAA=</HashCode>
+      <FileName>XOR3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InputPin" Collapsed="true">
+    <Position X="2.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAABAAAAAAAAAAIQAAAAAAAAAA=</HashCode>
+      <FileName>Components\InputPin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OutputPin" Collapsed="true">
+    <Position X="4.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAIAAAAAAAAAAAAAAAACAAAAEAAAAABAAAAAA=</HashCode>
+      <FileName>Components\OutputPin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pin" Collapsed="true">
+    <Position X="3.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAACAAAAAAAABEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Components\Pin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ApplicationManager" Collapsed="true">
+    <Position X="71" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QQAgoKIgIIQISRQMgAQCAAAAcYAAQAgRCAAAABEAAEA=</HashCode>
+      <FileName>ApplicationManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="window" Collapsed="true">
+    <Position X="79.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>lJITjNAVABAAoEAUADQAkCDGASAH6FKIAEtkaGIGQME=</HashCode>
+      <FileName>CMUgraphicsLib\CMUgraphics.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="color" Collapsed="true">
+    <Position X="72.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAIAAAAAAAAAAAAAAAAAAAgAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\colors.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="image" Collapsed="true">
+    <Position X="74.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAIAIAAIAAABAAAAgBAkAAAgBAABAAoAEAAABA=</HashCode>
+      <FileName>CMUgraphicsLib\image.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kqueuenode" Collapsed="true">
+    <Position X="79.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAgAAAAAAAAQAAAAAABAAA=</HashCode>
+      <FileName>CMUgraphicsLib\keyqueue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="kqueue" Collapsed="true">
+    <Position X="78" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAEAAAAAAAAAAAAAABAAAAAAAAABAAAAAQAAAAQA=</HashCode>
+      <FileName>CMUgraphicsLib\keyqueue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mqueuenode" Collapsed="true">
+    <Position X="72.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAICAAAACAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\mousequeue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="mqueue" Collapsed="true">
+    <Position X="71" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAAAAAAABAAAAAABAAAAAAAAAQAAQAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\mousequeue.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="winode" Collapsed="true">
+    <Position X="72.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAgAAAAAAgAAAAAAAAAAAACAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\windowinput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="windowinput" Collapsed="true">
+    <Position X="71" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAMAAAEAAAAAEawAAAEAIDAAAEAAAFAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\windowinput.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddANDgate3" Collapsed="true">
+    <Position X="25.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECAAAAAAAAARAQAAAAAAAQBAwAAAACAAQAAAAAAAAA=</HashCode>
+      <FileName>AddANDgate3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddINV" Collapsed="true">
+    <Position X="30.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAEAAAARAQAAAAAAAQBAwAAAACAAQEAAAAAAAA=</HashCode>
+      <FileName>AddINV.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddNANDgate2" Collapsed="true">
+    <Position X="34.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAARAQAAAAAEAQBAwAAAACAAQAAEAAAAAA=</HashCode>
+      <FileName>AddNANDgate2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddNORgate2" Collapsed="true">
+    <Position X="39.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACAAAAAAAAARAQAAAAAAAQBA4AAAACAAQAAAAAAAAA=</HashCode>
+      <FileName>AddNORgate2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddNORgate3" Collapsed="true">
+    <Position X="46" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAARAQAABAAAAQBA4AAAACAAQAAAAAAAAA=</HashCode>
+      <FileName>AddNORgate3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddORgate2" Collapsed="true">
+    <Position X="50.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAARAQAAAAAAAQBAwAAACCIAQAAAAAAAAA=</HashCode>
+      <FileName>AddORgate2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddORgate3" Collapsed="true">
+    <Position X="55" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAARAQAAAAAAAQBAwAAAACQAQAAAEAAAAA=</HashCode>
+      <FileName>AddORgate3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddXNORgate2" Collapsed="true">
+    <Position X="59.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACAAAAAAAAARAQAAAAACAQBAwAAAACAAQAAAAAAAAA=</HashCode>
+      <FileName>AddXNORgate2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddXORgate2" Collapsed="true">
+    <Position X="64" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAARAQAAAACAASBAwAAAACAAQAAAAAAAAA=</HashCode>
+      <FileName>AddXORgate2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AddXORgate3" Collapsed="true">
+    <Position X="68.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAARAQAAAAAAASBAwAAAACAAQBAAAAAAAA=</HashCode>
+      <FileName>AddXORgate3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OR3" Collapsed="true">
+    <Position X="31.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABACgIAAAAAEAgAAAAIAAAAAAgAICAAABQAAgAEAAAA=</HashCode>
+      <FileName>OR3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SaveDesign" Collapsed="true">
+    <Position X="41.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAABAQAIAAAAAQBAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SaveDesign.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Stack" Collapsed="true">
+    <Position X="76.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAACAQAgACIAAAAAAAQAAAACAA=</HashCode>
+      <FileName>STACK.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StackPaste" Collapsed="true">
+    <Position X="78" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAACAQACACIAAAAAAAQAAAACAA=</HashCode>
+      <FileName>STACK.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="UI_Info" Collapsed="true">
+    <Position X="72.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CwBEQgAEIAAQCKQDZAAAkB4IjCBACgAAAABIFAAACMQ=</HashCode>
+      <FileName>GUI\UI_Info.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_003b_1" Collapsed="true">
+    <Position X="4.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAABAAAAAAAAAAAAABAAQAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdatasrc.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_003c_1" Collapsed="true">
+    <Position X="26.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAACQAAAAAABAAAABAAAAAAAAABAAAAAAAgAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdcoefct.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_003d_1" Collapsed="true">
+    <Position X="29.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAACgAAAAAAAAACAAAAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdcolor.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_003f_1" Collapsed="true">
+    <Position X="12.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jddctmgr.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0040_1" Collapsed="true">
+    <Position X="11.5" Y="34.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdhuff.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0040_2" Collapsed="true">
+    <Position X="0.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACACAAAAAAAAAAAAAAAAACAAAAAgBAAAAAAQAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdhuff.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0042_1" Collapsed="true">
+    <Position X="23.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdinput.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0043_1" Collapsed="true">
+    <Position X="25.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAQgAIBAAAAAAAAAAAAAAAABEAgBAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdmainct.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0045_1" Collapsed="true">
+    <Position X="8.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAASAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdmaster.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0046_1" Collapsed="true">
+    <Position X="26.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAACgAAAAAAAAACAAAAAAAAAAAAAABAAIAAgAEAQAI=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdmerge.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0047_1" Collapsed="true">
+    <Position X="71" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdphuff.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0047_2" Collapsed="true">
+    <Position X="13.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACACAAAAAAAACAAAAAAAACAAAAAgAAAAAAAQAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdphuff.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0048_1" Collapsed="true">
+    <Position X="10.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAQAAAAAAAAAAAQAAAAAAABACAABAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdpostct.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0049_1" Collapsed="true">
+    <Position X="72.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAIAAACAAAAAAAAgQAQAAAAAAAAAAQAAAQAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdsample.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0052_3" Collapsed="true">
+    <Position X="1.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACAAAAAAAgIAAAAAAAAAEAAAAAAAQAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmemmgr.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jvirt_sarray_control" Collapsed="true">
+    <Position X="28.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAABAAAACAAAQAQAAAAQCAQgAAAAAAAAYECAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmemmgr.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jvirt_barray_control" Collapsed="true">
+    <Position X="28.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAQACAAAQAQAAAAQCAQgAAAAAAAAYECAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmemmgr.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0058_1" Collapsed="true">
+    <Position X="19.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAJECAAAAAAACAACAAAAAAAAAMAAAAAAAIAAAAAAQAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant1.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0059_1" Collapsed="true">
+    <Position X="74.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBCEAAAAAAAAAAAAAgAAAAAECAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant2.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0059_2" Collapsed="true">
+    <Position X="19.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABEEAAAAAAAAAAAIAAgAAAAAAABAAAAAACCAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant2.c</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0041_1" Collapsed="true">
+    <Position X="35.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAACAAAAACAIAAAAAAAAAAAAAgACAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdhuff.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0041_2" Collapsed="true">
+    <Position X="31.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAUAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdhuff.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0041_3" Collapsed="true">
+    <Position X="34.5" Y="23.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAAAAAAAAIACAAAAEAAABAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdhuff.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="backing_store_struct" Collapsed="true">
+    <Position X="7.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAACgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmemsys.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_comp_master" Collapsed="true">
+    <Position X="78" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_c_main_controller" Collapsed="true">
+    <Position X="79.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_c_prep_controller" Collapsed="true">
+    <Position X="71" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_c_coef_controller" Collapsed="true">
+    <Position X="78" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_color_converter" Collapsed="true">
+    <Position X="72.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_downsampler" Collapsed="true">
+    <Position X="78" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAggAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_forward_dct" Collapsed="true">
+    <Position X="74.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_entropy_encoder" Collapsed="true">
+    <Position X="71" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_marker_writer" Collapsed="true">
+    <Position X="71" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_decomp_master" Collapsed="true">
+    <Position X="74.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_input_controller" Collapsed="true">
+    <Position X="76.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_d_main_controller" Collapsed="true">
+    <Position X="71" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_d_coef_controller" Collapsed="true">
+    <Position X="79.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_d_post_controller" Collapsed="true">
+    <Position X="72.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_marker_reader" Collapsed="true">
+    <Position X="79.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAAAAEAEAAIAAAAAAAAAEAAABAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_entropy_decoder" Collapsed="true">
+    <Position X="79.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_inverse_dct" Collapsed="true">
+    <Position X="78" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_upsampler" Collapsed="true">
+    <Position X="78" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAggAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_color_deconverter" Collapsed="true">
+    <Position X="74.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_color_quantizer" Collapsed="true">
+    <Position X="76.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0057_1" Collapsed="true">
+    <Position X="7.5" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0057_2" Collapsed="true">
+    <Position X="3.5" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAEAAAAAACAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0057_3" Collapsed="true">
+    <Position X="32.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABEAARAIIABCkBQggAAAAAAEAAAAAAABEAAASCAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="__unnamed_struct_0057_4" Collapsed="true">
+    <Position X="23.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAIAAABAAAAAAAAAAAABAAAAAAIIAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_common_struct" Collapsed="true">
+    <Position X="11.5" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_compress_struct" Collapsed="true">
+    <Position X="30.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEABUEABIABpAZBBQACEBAARRAKSIwEYIiAAQCwIDQ=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_decompress_struct" Collapsed="true">
+    <Position X="19.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QFAQTUEkBIABpJRhAEQGABwABZAOQo0nYIiAFQYisDY=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_error_mgr" Collapsed="true">
+    <Position X="72.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAACACAEgAAAACAAAABAAEAAAACAAAAAgBAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_progress_mgr" Collapsed="true">
+    <Position X="74.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAACAAAIAAAAAAAAgAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_destination_mgr" Collapsed="true">
+    <Position X="76.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_source_mgr" Collapsed="true">
+    <Position X="76.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAABgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="jpeg_memory_mgr" Collapsed="true">
+    <Position X="72.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="GraphicsInfo" Collapsed="true">
+    <Position X="76.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAwAAAACAAQAAAAAAAAA=</HashCode>
+      <FileName>Defs.H</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Node" Collapsed="true">
+    <Position X="79.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>STACK.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="NodePaste" Collapsed="true">
+    <Position X="71" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAEAAAIAAAA=</HashCode>
+      <FileName>STACK.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="my_source_mgr" Collapsed="true">
+    <Position X="7.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdatasrc.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_src_ptr" Collapsed="true">
+    <Position X="7.5" Y="28.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdatasrc.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_coef_controller" Collapsed="true">
+    <Position X="24.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdcoefct.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_coef_ptr" Collapsed="true">
+    <Position X="24.5" Y="27.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdcoefct.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_color_deconverter" Collapsed="true">
+    <Position X="27.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdcolor.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_cconvert_ptr" Collapsed="true">
+    <Position X="27.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdcolor.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_idct_controller" Collapsed="true">
+    <Position X="15.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jddctmgr.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_idct_ptr" Collapsed="true">
+    <Position X="15.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jddctmgr.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="multiplier_table" Collapsed="true">
+    <Position X="72.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jddctmgr.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="savable_state" Collapsed="true">
+    <Position X="11.5" Y="36.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdhuff.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="huff_entropy_decoder" Collapsed="true">
+    <Position X="3.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdhuff.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="huff_entropy_ptr" Collapsed="true">
+    <Position X="3.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdhuff.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_input_controller" Collapsed="true">
+    <Position X="20.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdinput.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_inputctl_ptr" Collapsed="true">
+    <Position X="20.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdinput.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_main_controller" Collapsed="true">
+    <Position X="24.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdmainct.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_main_ptr" Collapsed="true">
+    <Position X="24.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdmainct.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="JPEG_MARKER" Collapsed="true">
+    <Position X="35.5" Y="30.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdmarker.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_decomp_master" Collapsed="true">
+    <Position X="11.5" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdmaster.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_master_ptr" Collapsed="true">
+    <Position X="11.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdmaster.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_upsampler" Collapsed="true">
+    <Position X="23.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdmerge.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_upsample_ptr" Collapsed="true">
+    <Position X="23.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdmerge.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="phuff_entropy_decoder" Collapsed="true">
+    <Position X="16.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdphuff.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="phuff_entropy_ptr" Collapsed="true">
+    <Position X="16.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdphuff.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_post_controller" Collapsed="true">
+    <Position X="7.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdpostct.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_post_ptr" Collapsed="true">
+    <Position X="7.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdpostct.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="JMETHOD" Collapsed="true">
+    <Position X="74.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdct.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="small_pool_ptr" Collapsed="true">
+    <Position X="79.75" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmemmgr.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="small_pool_hdr" Collapsed="true">
+    <Position X="78" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmemmgr.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="large_pool_ptr" Collapsed="true">
+    <Position X="79.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmemmgr.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="large_pool_hdr" Collapsed="true">
+    <Position X="78" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmemmgr.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_memory_mgr" Collapsed="true">
+    <Position X="3.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmemmgr.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_mem_ptr" Collapsed="true">
+    <Position X="3.5" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmemmgr.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ODITHER_MATRIX" Collapsed="true">
+    <Position X="74.5" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant1.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ODITHER_MATRIX_PTR" Collapsed="true">
+    <Position X="76.25" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant1.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FSERROR" Collapsed="true">
+    <Position X="20.5" Y="17.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant1.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="LOCFSERROR" Collapsed="true">
+    <Position X="71" Y="14" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant1.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FSERRPTR" Collapsed="true">
+    <Position X="20.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant1.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_cquantizer" Collapsed="true">
+    <Position X="16.5" Y="14.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant1.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="my_cquantize_ptr" Collapsed="true">
+    <Position X="16.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant1.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="histcell" Collapsed="true">
+    <Position X="8.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant2.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="histptr" Collapsed="true">
+    <Position X="8.5" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant2.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="hist1d" Collapsed="true">
+    <Position X="8.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant2.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="hist2d" Collapsed="true">
+    <Position X="9.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant2.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="hist3d" Collapsed="true">
+    <Position X="12.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant2.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="box" Collapsed="true">
+    <Position X="16.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant2.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="boxptr" Collapsed="true">
+    <Position X="16.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jquant2.c</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="DCTELEM" Collapsed="true">
+    <Position X="72.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdct.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="ISLOW_MULT_TYPE" Collapsed="true">
+    <Position X="71" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdct.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="IFAST_MULT_TYPE" Collapsed="true">
+    <Position X="79.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdct.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="FLOAT_MULT_TYPE" Collapsed="true">
+    <Position X="76.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdct.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="d_derived_tbl" Collapsed="true">
+    <Position X="35.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdhuff.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="bit_buf_type" Collapsed="true">
+    <Position X="27.5" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdhuff.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="bitread_perm_state" Collapsed="true">
+    <Position X="31.5" Y="34.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdhuff.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="bitread_working_state" Collapsed="true">
+    <Position X="34.5" Y="25.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdhuff.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="J_MESSAGE_CODE" Collapsed="true">
+    <Position X="19.5" Y="34.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jerror.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="XMSH" Collapsed="true">
+    <Position X="72.75" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmemsys.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="EMSH" Collapsed="true">
+    <Position X="74.5" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmemsys.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="handle_union" Collapsed="true">
+    <Position X="78" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmemsys.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="backing_store_ptr" Collapsed="true">
+    <Position X="4.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmemsys.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="backing_store_info" Collapsed="true">
+    <Position X="7.5" Y="16.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmemsys.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="JSAMPLE" Collapsed="true">
+    <Position X="0.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmorecfg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="JCOEF" Collapsed="true">
+    <Position X="12.5" Y="15.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmorecfg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="JOCTET" Collapsed="true">
+    <Position X="76.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmorecfg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="UINT8" Collapsed="true">
+    <Position X="71" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmorecfg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="UINT16" Collapsed="true">
+    <Position X="5.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmorecfg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="INT16" Collapsed="true">
+    <Position X="22.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmorecfg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="INT32" Collapsed="true">
+    <Position X="27.5" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmorecfg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="JDIMENSION" Collapsed="true">
+    <Position X="72.75" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmorecfg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="boolean" Collapsed="true">
+    <Position X="71" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jmorecfg.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="J_BUF_MODE" Collapsed="true">
+    <Position X="33.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="JSAMPROW" Collapsed="true">
+    <Position X="2.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="JSAMPARRAY" Collapsed="true">
+    <Position X="3.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="JSAMPIMAGE" Collapsed="true">
+    <Position X="3.5" Y="14.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="JBLOCK" Collapsed="true">
+    <Position X="12.5" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="JBLOCKROW" Collapsed="true">
+    <Position X="12.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="JBLOCKARRAY" Collapsed="true">
+    <Position X="12.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="JBLOCKIMAGE" Collapsed="true">
+    <Position X="12.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="JCOEFPTR" Collapsed="true">
+    <Position X="12.5" Y="17.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="JQUANT_TBL" Collapsed="true">
+    <Position X="7.5" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="JHUFF_TBL" Collapsed="true">
+    <Position X="3.5" Y="33.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="jpeg_component_info" Collapsed="true">
+    <Position X="32.5" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="jpeg_scan_info" Collapsed="true">
+    <Position X="23.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="J_COLOR_SPACE" Collapsed="true">
+    <Position X="32.5" Y="20.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="J_DCT_METHOD" Collapsed="true">
+    <Position X="15.5" Y="31.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="J_DITHER_MODE" Collapsed="true">
+    <Position X="31.5" Y="15.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="j_common_ptr" Collapsed="true">
+    <Position X="11.5" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="j_compress_ptr" Collapsed="true">
+    <Position X="30.5" Y="24.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="j_decompress_ptr" Collapsed="true">
+    <Position X="19.5" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="jvirt_sarray_ptr" Collapsed="true">
+    <Position X="28.5" Y="26.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Typedef Name="jvirt_barray_ptr" Collapsed="true">
+    <Position X="28.5" Y="19.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Enum Name="__unnamed_enum_0044_1" Collapsed="true">
+    <Position X="35.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAQgBIAAAAAAAEAQABAQABACMR/AAAAABAAAIAAgAQ=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jdmarker.c</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="drawstyle" Collapsed="true">
+    <Position X="71" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEBAAAAAhAQAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\CMUgraphics.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="fontfamily" Collapsed="true">
+    <Position X="78" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAASCg=</HashCode>
+      <FileName>CMUgraphicsLib\CMUgraphics.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="angletype" Collapsed="true">
+    <Position X="72.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\CMUgraphics.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="error" Collapsed="true">
+    <Position X="74.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\error.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="imagetype" Collapsed="true">
+    <Position X="79.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\image.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="keytype" Collapsed="true">
+    <Position X="71" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAACAAAAAAAAAAAAACAAAAAAAgAACAAA=</HashCode>
+      <FileName>CMUgraphicsLib\keyqueue.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="button" Collapsed="true">
+    <Position X="74.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\mousequeue.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="buttonstate" Collapsed="true">
+    <Position X="76.25" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\mousequeue.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="clicktype" Collapsed="true">
+    <Position X="78" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAEAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>CMUgraphicsLib\mousequeue.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_004c_1" Collapsed="true">
+    <Position X="19.5" Y="32.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jerror.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_0056_1" Collapsed="true">
+    <Position X="33.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAEAAAAAAAAAAAAAAAAAAAIAAAgAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpegint.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_0057_5" Collapsed="true">
+    <Position X="32.5" Y="18.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAAAABAAQAAAAAAAACAAAAAAAAAEAgA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_0057_6" Collapsed="true">
+    <Position X="15.5" Y="29.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAEAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="__unnamed_enum_0057_7" Collapsed="true">
+    <Position X="31.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CMUgraphicsLib\jpeg\jpeglib.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ActionType" Collapsed="true">
+    <Position X="71" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwCQgyEgIQQDAEIAAIBAyCAQQICGAMDAAEAAABAAQIM=</HashCode>
+      <FileName>Defs.H</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="STATUS" Collapsed="true">
+    <Position X="76.25" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Defs.H</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MODE" Collapsed="true">
+    <Position X="72.75" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Defs.H</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="DsgnMenuItem" Collapsed="true">
+    <Position X="72.75" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACABUACAgAJhgQFEAIAQQoAEAEAAgABAAAB4AQICAA=</HashCode>
+      <FileName>Defs.H</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="CompType" Collapsed="true">
+    <Position X="79.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAiAAwAQAIABgAAAAIEAQAAAAAAAAAAAAAAAAAwAACA=</HashCode>
+      <FileName>Defs.H</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SimMenuItem" Collapsed="true">
+    <Position X="74.5" Y="11.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAIAAAAAAAAAAQAAIIAAAAAAAAACA=</HashCode>
+      <FileName>Defs.H</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="FANOUT" Collapsed="true">
+    <Position X="76.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Defs.H</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
